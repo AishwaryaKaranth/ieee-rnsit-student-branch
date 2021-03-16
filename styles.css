@@ -55,6 +55,7 @@ h1{
     text-shadow: 3px 1px var(--third-color);
     text-align:center;
     font-size:3rem;
+    margin-left:15%;
 }
 
 .link {
