@@ -33,7 +33,14 @@ hr {
 .container {
     padding: 0rem 1rem;
 }
-
+.paragraph-container{
+    text-align: left;
+    margin-left:30%;
+    margin-right:30%;
+  }
+p{
+    color:var(--fourth-color);
+}
 .container-center {
     max-width: 600px;
     margin: auto;
