@@ -34,15 +34,18 @@ hr {
     padding: 0rem 1rem;
 }
 .paragraph-container{
-    
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     display:block;
     text-align: left;
     margin-left:25%;
     margin-right:25%;
-  }
-p{
     color:var(--fourth-color);
-}
+  }
+
 .container-center {
     max-width: 600px;
     margin: auto;
