@@ -20,7 +20,15 @@ hr {
 .margin-md {
     margin: 2rem;
 }
-
+.social-link-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    max-width: 230px;
+    margin: 1rem 0;
+    margin-left:43%;
+}
 
 .container {
     padding: 0rem 1rem;
