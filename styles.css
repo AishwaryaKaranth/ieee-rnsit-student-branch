@@ -12,7 +12,15 @@ body {
     margin: 0px;
     background-color:var(--primary-color);
 }
-
+.social-link-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    max-width: 200px;
+    margin: 1rem 0;
+    margin-left:43%;
+}
 hr {
     margin: 2rem 0rem;
 }
@@ -277,4 +285,9 @@ section{
   }
   li{
       margin-bottom:2.5rem;
+  }
+  .paragraph-container{
+    text-align: left;
+    margin-left:30%;
+    margin-right:30%;
   }
