@@ -26,8 +26,8 @@ hr {
     justify-content: space-evenly;
     width: 100%;
     max-width: 230px;
-    margin: 1rem 0;
-    margin-left:28%;
+    margin:auto;
+    padding-top:10px;
 }
 
 .container {
